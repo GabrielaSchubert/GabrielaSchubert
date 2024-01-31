@@ -1,6 +1,6 @@
 ### Olá, eu sou a Gabriela Schubert 👋
 
- 🌱 Estudante De Sistema De Informação
+ 🌱 Estudante De Sistemas De Informação
  
  😄 Pronome: Ela/Dela
  
