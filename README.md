@@ -1,6 +1,6 @@
 ### Olá, eu sou a Gabriela Schubert 👋
 
- 😄  Estudante De Sistemas De Informação 
+ 😄  Bacharelanda Em Sistemas De Informação 
  
  ⚡ Curiosidade: Iniciante de Programação
 
