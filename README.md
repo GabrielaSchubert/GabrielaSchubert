@@ -4,13 +4,13 @@
 
   ##
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielaSchubert&theme=midnight-purple&hide_border=falso" alt="GitHub Streak" /></a>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSchubert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <br>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSchubert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielaSchubert&theme=midnight-purple&hide_border=falso" alt="GitHub Streak" /></a>
 </div>
 
 ##
