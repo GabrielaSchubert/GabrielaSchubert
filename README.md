@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B1D9C&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Schubert+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rob%C3%B4&size=15&pause=1000&color=E4DEE0&center=falso&vCenter=falso&repeat=falso&random=falso&width=435&lines=%F0%9F%98%84+Bacharelanda+Em+Sistemas+De+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rob%C3%B4&size=15&pause=1000&color=E4DEE0&center=falso&vCenter=falso&repeat=falso&random=falso&width=435&lines=%E2%9A%A1+Iniciante+de+Programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rob%C3%B4&size=15&pause=1000&color=CB65F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%98%84+Bacharelanda+em+Sistemas+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
   ##
 
@@ -9,7 +8,12 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielaSchubert&theme=midnight-purple&hide_border=falso" alt="GitHub Streak" /></a>
 </div>
 
-  ##
+<br>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSchubert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</div>
+
+##
 
 <div align="center"> 
   <a href="https://instagram.com/gabriela_schubert" target="_blank">
@@ -23,6 +27,7 @@
 </div>
 
 ### Principais Habilidades:
+
 <div align="left">
   <img align="left" alt="Python" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/d778a858-16c9-4038-bb9b-7938ca0ac853">
   <img align="left" alt="HTML" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/5c5a5fc7-a847-43e2-ad3d-af01beeed09d">
