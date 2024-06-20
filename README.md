@@ -17,7 +17,7 @@
 
 <div align="center"> 
   <a href="https://instagram.com/gabriela_schubert" target="_blank">
-  <img align="center" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/a8dd6d5e-a5b9-42e9-b906-c4c44861f6e6"></a>
+  <img align="center" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/a8dd6d5e-a5b9-42e9-b906-c4c44861f6e6" target="_blank"></a>
  
   <a href="mailto:gabrielaschubert172@gmail.com" target="_blank">
   <img align="center" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/c3f5f355-da10-4cdc-98f3-28a2d1181aea"></a>
@@ -25,6 +25,8 @@
   <a href="https://www.linkedin.com/in/gabriela-schubert-630741271" target="_blank">
   <img align="center" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/65dce5ce-0cd5-4f07-a3f6-d1a5bccb0177"></a> 
 </div>
+
+##
 
 ### Principais Habilidades:
 
