@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B1D9C&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Schubert+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8B1D9C&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Schubert+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rob%C3%B4&size=15&pause=1000&color=CB65F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%98%84+Bacharelanda+em+Sistemas+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=8B1D9C&center=verdadeiro&vCenter=verdadeiro&repeat=falso&random=verdadeiro&width=435&lines=+Bacharelanda+em+Sistemas+de+Informa%C3%A7%C3%A3o++%F0%9F%92%BB)](https://git.io/typing-svg)
 
-  ##
+##
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSchubert&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSchubert&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 <br>
