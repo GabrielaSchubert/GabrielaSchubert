@@ -16,15 +16,15 @@
 ##
 
 <div align="center"> 
-  <a href="https://instagram.com/gabriela_schubert" target="_blank">
+  <a href="https://instagram.com/gabriela_schubert">
   <img align="center" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/a8dd6d5e-a5b9-42e9-b906-c4c44861f6e6">
   </a>
    
-  <a href="mailto:gabrielaschubert172@gmail.com" target="_blank">
+  <a href="mailto:gabrielaschubert172@gmail.com">
   <img align="center" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/c3f5f355-da10-4cdc-98f3-28a2d1181aea">
   </a>
   
-  <a href="https://www.linkedin.com/in/gabriela-schubert-630741271" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriela-schubert-630741271">
   <img align="center" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/65dce5ce-0cd5-4f07-a3f6-d1a5bccb0177">
   </a> 
 </div>
@@ -34,8 +34,8 @@
 ### Principais Habilidades:
 
 <div align="left">
-  <img align="left" alt="Python" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/d778a858-16c9-4038-bb9b-7938ca0ac853">
-  <img align="left" alt="HTML" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/5c5a5fc7-a847-43e2-ad3d-af01beeed09d">
-  <img align="left" alt="CSS" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/04ccc078-fd8c-4339-94c9-949b6ff3eb57">
-  <img align="left" alt="JavaScript" height="50" width="50" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/6a970d5e-f0e9-4692-b9fb-eb8a9239d777">
+  <img align="left" alt="Python" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/d778a858-16c9-4038-bb9b-7938ca0ac853">
+  <img align="left" alt="HTML" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/5c5a5fc7-a847-43e2-ad3d-af01beeed09d">
+  <img align="left" alt="CSS" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/04ccc078-fd8c-4339-94c9-949b6ff3eb57">
+  <img align="left" alt="JavaScript" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/6a970d5e-f0e9-4692-b9fb-eb8a9239d777">
 </div>
