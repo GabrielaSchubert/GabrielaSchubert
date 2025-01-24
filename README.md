@@ -4,13 +4,12 @@
 
 ##
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSchubert&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSchubert&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Imagem de linguagens mais utilizadas no github">
 </div>
 
 <br>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielaSchubert&theme=midnight-purple&hide_border=falso" alt="GitHub Streak" /></a>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielaSchubert&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="Imagem de contribuição no github">
 </div>
 
 ##
