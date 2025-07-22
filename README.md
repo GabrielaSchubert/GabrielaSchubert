@@ -38,3 +38,11 @@
   <img align="left" alt="CSS" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/04ccc078-fd8c-4339-94c9-949b6ff3eb57">
   <img align="left" alt="JavaScript" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/6a970d5e-f0e9-4692-b9fb-eb8a9239d777">
 </div>
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
