@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Schubert+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B1D9C&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Gabriela+Schubert+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=8B1D9C&center=verdadeiro&vCenter=verdadeiro&repeat=falso&random=verdadeiro&width=435&lines=+Bacharelanda+em+Sistemas+de+Informa%C3%A7%C3%A3o++%F0%9F%92%BB" alt="Typing SVG" /></a>
 
