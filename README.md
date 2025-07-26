@@ -46,11 +46,14 @@
 ## :rocket: Principais Habilidades
 
 <div align="left">
-  <img align="left" alt="Python" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/d778a858-16c9-4038-bb9b-7938ca0ac853">
-  <img align="left" alt="HTML" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/5c5a5fc7-a847-43e2-ad3d-af01beeed09d">
-  <img align="left" alt="CSS" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/04ccc078-fd8c-4339-94c9-949b6ff3eb57">
-  <img align="left" alt="JavaScript" height="40" width="40" src="https://github.com/GabrielaSchubert/GabrielaSchubert/assets/130176270/6a970d5e-f0e9-4692-b9fb-eb8a9239d777">
+  <img align="left" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="left" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="left" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="left" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="left" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="left" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="left" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
 </div>
 
 <br><br>
