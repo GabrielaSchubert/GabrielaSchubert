@@ -60,14 +60,10 @@
 ##
 <br>
 
+## 🏆 Pacman de Contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaSchubert/GabrielaSchubert/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaSchubert/GabrielaSchubert/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielaSchubert/GabrielaSchubert/output/pacman-contribution-graph.svg">
 </picture>
-
-##
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielaSchubert&theme=aura" height="180" alt="troféus de contribuição">
-</div>
